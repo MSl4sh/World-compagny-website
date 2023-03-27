@@ -50,7 +50,7 @@ nav li:hover{
     height: 100vh;
     background: url(./img/bg.jpg);
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
 }
 
 .front div {
